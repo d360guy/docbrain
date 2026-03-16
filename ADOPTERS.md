@@ -14,8 +14,7 @@ If you are using DocBrain, please submit a Pull Request to add your organization
 
 | Organization | Use Case | Link |
 | :--- | :--- | :--- |
-| **[Example Org]** | Powering Slack-based AI answers for SRE on-call rotation. | [example.com](https://example.com) |
-| **[Example Project]** | Internal knowledge layer for a large-scale Kubernetes platform. | - |
+| **[D360 Bank](https://d360.com/en)** | Powering Slack-based AI answers for SRE on-call rotation. | - |
 
 ## Seeking Adopters
 *DocBrain is currently in the CNCF Sandbox application phase. We are actively seeking early adopters to join our community and help shape the roadmap.*
